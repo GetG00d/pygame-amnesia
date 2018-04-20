@@ -1,2 +1,2 @@
 # pygame-amnesia
-<img src = "Capture3.PNG">
+<img src = "win.jpg"
